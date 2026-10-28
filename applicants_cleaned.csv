@@ -1,0 +1,12 @@
+Applicant_ID,Name,Age,Gender,Education,Years_Experience,Applied_Position,Application_Status,Expected_Salary
+101,Ana Silva,24,Female,Bachelor,2,Data Analyst,Accepted,2500.0
+102,Bruno Costa,29,Male,Master,5,Software Engineer,Rejected,4000.0
+103,Maria Santos,27,Female,Bachelor,3,Data Analyst,Under Review,2800.0
+104,Pedro Manuel,35,Male,PhD,10,Data Scientist,Accepted,6000.0
+105,Carla Mendes,27,Female,Bachelor,3,Business Analyst,Rejected,3250.0
+106,Joao Paulo,22,Male,High School,1,Intern,Under Review,1200.0
+107,Sofia Lima,31,Female,Master,7,Data Analyst,Accepted,3500.0
+108,Daniel Alves,27,Male,Bachelor,4,Software Engineer,Rejected,4200.0
+109,Beatriz Gomes,26,Female,Master,2,Business Analyst,Accepted,3000.0
+110,Lucas Pereira,28,Male,Bachelor,6,Data Scientist,Under Review,5000.0
+112,Ines Rocha,24,Female,Bachelor,0,Intern,Accepted,1000.0
